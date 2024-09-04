@@ -1,0 +1,9 @@
+{
+	"name": "adf-cursoudemy-rubem",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adf73340-de4e-497b-9f5a-788129d73487",
+		"tenantId": "3d14254b-8804-4846-bc21-209d838c85a5"
+	}
+}
